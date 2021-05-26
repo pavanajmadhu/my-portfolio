@@ -1,0 +1,18 @@
+
+
+.header{
+    border: groove 6px ;
+    display:flex;
+    justify-content:space-between;
+    
+ 
+   
+}
+.project{
+    display: flex;
+    justify-content:space-between
+}
+img{
+    width:100px;
+    height:100px
+}
